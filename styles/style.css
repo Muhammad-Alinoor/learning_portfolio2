@@ -1,0 +1,68 @@
+body {
+    color: gray;
+}
+
+.flexible-section {
+    display: flex;
+}
+
+.half-width {
+    width: 50%;
+    margin-left: 60px;
+}
+
+.half-width img {
+    display: block;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+h1 {
+    font-size: 40px;
+}
+
+.violet-color {
+    color: #8845f4;
+}
+
+.link-btn {
+    color: white;
+    font-weight: bolder;
+    background-color: #8845f4;
+    padding: 13px 42px;
+    border-radius: 25px;
+    text-decoration: none;
+}
+
+.non-flex-section {
+    margin: 50px;
+    padding: 40px;
+    background-color: rgb(238, 251, 255);
+    border-radius: 20px;
+}
+
+.time-color {
+    color: #8845f4;
+}
+
+.full-stack {
+    margin: 40px 0;
+}
+
+.baby {
+    margin-top: 100px;
+}
+
+.shadow {
+    padding: 15px;
+    border-left: 1px solid rgb(233, 224, 224);
+
+
+}
+
+footer p {
+    text-align: center;
+    size: 20px;
+}
